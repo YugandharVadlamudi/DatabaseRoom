@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DatabaseRoom</string>
+    <string name="insert_row">Insert Row</string>
+    <string name="select_row">Select Row</string>
+    <string name="select_where">WhereClause</string>
+    <string name="update_row">Update Row</string>
+</resources>
